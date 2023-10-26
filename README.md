@@ -1,13 +1,9 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Luqman Hakim</h1>
-<h3 align="center">A passionate Fullstack developer from Shah Alam, Malaysia</h3>
+<h3 align="center">A passionate Software Engineer from Shah Alam, Malaysia</h3>
 <img align="right" width="400" src="https://github.com/luqzi99/luqzi99/assets/55619414/5fc03aca-f8cf-4c96-a149-13b141c34890">
 
 <p align="left"> <img src="cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="luqzi99" /> </p>
-
-- 🔭 I’m currently working on [APPIMR and APPISR](https://appimr.moe.gov.my/)
-
-- 🌱 I’m currently learning **Flutter framework and how to design UI/UX**
 
 - 👀 I’m interested in working on **front end development for mobile app and web development.**
 
@@ -15,7 +11,7 @@
 
 - 📝 I regularly write articles on [mluqmanhakim.com](mluqmanhakim.com)
 
-- 💬 Ask me about **Laravel, MERN**
+- 💬 Ask me about **Laravel, MERN, Vue**
 
 - 📫 How to reach me **mluqmanhakim.mlh@gmail.com**
 
