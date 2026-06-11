@@ -1,33 +1,135 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-<h1 align="center">Hi 👋, I'm Luqman Hakim</h1>
-<h3 align="center">A passionate Software Engineer from Shah Alam, Malaysia</h3>
-<img align="right" width="400" src="https://github.com/luqzi99/luqzi99/assets/55619414/5fc03aca-f8cf-4c96-a149-13b141c34890">
+# Luqman Hakim 👋
 
-<p align="left"> <img src="cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="luqzi99" /> </p>
+### Senior Software Engineer • AI Builder • Fintech Product Engineer
 
-- 👀 I’m interested in working on **front end development for mobile app and web development.**
+Based in Malaysia 🇲🇾
 
-- 👨‍💻 All of my projects are available at [mluqmanhakim.com](mluqmanhakim.com)
+I build scalable payment systems, AI-powered developer tooling, and automation platforms that help teams move faster.
 
-- 📝 I regularly write articles on [mluqmanhakim.com](mluqmanhakim.com)
+Currently working at **Fiuu (formerly MOLPay)**, one of Southeast Asia's leading payment technology companies, where I focus on payment infrastructure, internal platforms, and AI-driven engineering workflows.
 
-- 💬 Ask me about **Laravel, MERN, Vue**
+---
 
-- 📫 How to reach me **mluqmanhakim.mlh@gmail.com**
+## 🚀 Current Focus
 
-- 📄 Know about my experiences [mluqmanhakim.com/resume](mluqmanhakim.com/resume)
+- Building AI-assisted engineering workflows using Claude Code, MCP and LLMs
+- Developing payment and merchant management systems at scale
+- Creating internal productivity tools powered by Generative AI
+- Building SaaS products for Malaysian businesses
 
-- ⚡ Fun fact **I like cat**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luqmanhakimrohaizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luqmanhakimrohaizi" height="30" width="40" /></a>
-<a href="https://instagram.com/_luqzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_luqzi" height="30" width="40" /></a>
+## 💻 Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI & Automation
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0A66C2?style=for-the-badge)
+
+---
+
+# Featured Work
+
+## 🤖 AI Engineering Platform @ Fiuu
+
+Designed and implemented a custom MCP ecosystem connecting Claude Code with self-hosted GitLab infrastructure.
+
+Key capabilities:
+
+- AI-assisted code reviews
+- Automated Merge Request generation
+- Repository intelligence
+- Engineering workflow automation
+- Shared Claude Code standards across teams
+
+---
+
+## ✍️ WriteRight
+
+Internal AI writing assistant used by 200+ employees.
+
+Features:
+
+- Grammar correction
+- AI-powered rephrasing
+- Tone improvement
+- Corporate communication enhancement
+
+Powered by Gemini Flash.
+
+---
+
+## 🏦 Payment Infrastructure
+
+Contributing across multiple production platforms including:
+
+- Merchant Onboarding
+- Payment Processing
+- Internal Admin Systems
+- Merchant Portal
+- API Platforms
+
+Focused on reliability, automation and developer productivity.
+
+---
+
+## 📈 Building
+
+### MyInvois Helper
+
+SaaS platform helping Malaysian SMEs simplify e-Invoicing compliance and integration with LHDN's MyInvois ecosystem.
+
+---
+
+## 🌱 Areas of Interest
+
+- AI Agents
+- Claude Code
+- MCP Development
+- Payment Technology
+- Developer Experience (DX)
+- SaaS & Micro-SaaS
+- Product Engineering
+- Automation Systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luqzi99&show_icons=true&locale=en&layout=compact" alt="luqzi99" /></p>
+## 🤝 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luqzi99&show_icons=true&locale=en" alt="luqzi99" /></p>
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your@email.com
+
+---
+
+> Building products at the intersection of AI, automation and fintech.
