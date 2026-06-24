@@ -1,6 +1,6 @@
 # Luqman Hakim 👋
 
-### Senior Software Engineer • AI Builder • Fintech Product Engineer
+### Software Engineer • AI Builder • Fintech Product Engineer
 
 Based in Malaysia 🇲🇾
 
